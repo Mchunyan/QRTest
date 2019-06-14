@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZxingViewFinderView">
+        <attr name="scannerBoundColor" format="color" />
+        <attr name="scannerBoundCornerColor" format="color" />
+        <attr name="scannerTipTextColor" format="color" />
+        <attr name="scannerBoundWidth" format="dimension" />
+        <attr name="scannerBoundCornerWith" format="dimension" />
+        <attr name="scannerBoundCornerHeight" format="dimension" />
+        <attr name="scannerTipTextSize" format="dimension" />
+        <attr name="scannerTipTextMargin" format="dimension" />
+
+        <attr name="pstsTabBackground" format="reference" />
+        <attr name="scannerLaserResId" format="integer" />
+        <attr name="scannerTipText" format="string" />
+        <attr name="scannerTipTextGravity" format="boolean" />
+    </declare-styleable>
+
+</resources>
